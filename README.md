@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/1200x/6b/b2/1b/6bb21bd088c67432c3765537abd36d53.jpg"  />
-</div>
+<h1 align="center"> A society that gives up freedom for safety will lose both  </h1>
+
 
 ###
 
